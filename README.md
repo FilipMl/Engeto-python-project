@@ -1,9 +1,12 @@
 # Engeto-python-project
 
 ***Zadání:***
+
 V Edinburghu, stejně jako v dalších městech, funguje systém "bike sharing" - ve městě jsou stanice s koly, člověk si může nějaké půjčit a potom ho vrátit v nějaké další stanici. Problém je, že v některých stanicích se kola pravidelně hromadí a jinde naopak chybí. Cílem projektu je systém zefektivnit.
 
-**Proveďte standardní deskriptivní statistiku dat. Také zjistěte minimálně následující informace:**
+**Provést standardní deskriptivní statistiku dat**
+
+**Zjistit následující informace:**
 
   1. identifikujte aktivní a neaktivní stanice
   2. identifikujte nejfrekventovanější stanice
@@ -11,7 +14,7 @@ V Edinburghu, stejně jako v dalších městech, funguje systém "bike sharing" 
   4. spočítejte vzdálenosti mezi jednotlivými stanicemi
   5. jak dlouho trvá jedna výpůjčka? Najděte odlehlé hodnoty, zobrazte histogram
 
-**Analýza poptávky:**
+**Analýzovat poptávku:**
 
   1. zobrazte vývoj poptávky po půjčování kol v čase
   2. identifikujte příčiny výkyvů poptávky
