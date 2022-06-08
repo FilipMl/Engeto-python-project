@@ -1,6 +1,6 @@
 # Engeto-python-project
 
-Jedná se o druhý projekt v rámci kurzu datové analýzy. Projekt je vytvořen v prostředí Google Colab, který je online alternativou k jupyter notebook. V projektu jsem využil knihovny Pandas, Sql-alchemy, scipy a matplotlib.pylab. Veškerý výstupy prjektu se nachází v souboru **ENGETO_python_projekt.ipynb**.
+Jedná se o druhý projekt v rámci kurzu datové analýzy. Projekt je vytvořen v prostředí Google Colab, který je online alternativou k jupyter notebook. V projektu jsem využil knihovny Pandas, Sql-alchemy, scipy a matplotlib.pylab. Veškerý výstupy prjektu se nachází v souboru **ENGETO_python_projekt_v3.ipynb**.
 
 
 ***Zadání:***
